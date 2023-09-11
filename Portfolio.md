@@ -7,8 +7,8 @@ I am currently a double degree aerospace engineer working at ArianeGroup on Aria
 During this long path to the ML degree, I had possibilities to participate to several projects to test my Machine Learning building and coding capabilities. These projects pushed me to delve into new AI topics or ML frameworks to improve my capacity. 
 
 - Satellite Imagery Processing Hackathon - ESA Copernicus Masters 2021
-- Dogs Breeds Image Classification hosted on ![Huggingface Spaces](https://huggingface.co/spaces/vintel38/OCS-P7-IML) inside OpenClassrooms MLE courses: from an opensource dataset of dogs annotated picture, I used Transfer Learning and fined-tuning on EfficientNetv4 for 97% accuracy classification over the different classes
-- Forecasting Mini-Course Sales on ![Kaggle](https://www.kaggle.com/competitions/playground-series-s3e19) inside Playground Series - Season 3, Episode 19 inside OpenClassrooms MLE courses: from a provided using FAIR Prophet to predict the sales of different products in a post-covid environment. 
+- Dogs Breeds Image Classification hosted on [Huggingface Spaces](https://huggingface.co/spaces/vintel38/OCS-P7-IML) inside OpenClassrooms MLE courses: from an opensource dataset of dogs annotated picture, I used Transfer Learning and fined-tuning on EfficientNetv4 for 97% accuracy classification over the different classes
+- Forecasting Mini-Course Sales on [Kaggle](https://www.kaggle.com/competitions/playground-series-s3e19) inside Playground Series - Season 3, Episode 19 inside OpenClassrooms MLE courses: from a provided using FAIR Prophet to predict the sales of different products in a post-covid environment. 
 
 ## Frameworks
 
