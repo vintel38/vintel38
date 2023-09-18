@@ -4,7 +4,7 @@
 
 I am currently a double graduate aerospace engineer working at ArianeGroup on Ariane6 program and also deeply interested in Machine Learning technics. After one engineering diploma in France (equivalent Master) and the Master of Science of Politecnico di Milano in Space Engineering, I had my first professionnal experiences in French big and small aeronautical companies before moving to ArianeGroup. I am currently working on validation of the flight software of this Ariane6 rocket. For some years, I have been interested in Machine Learning technics and now I want to grow in this field. 
 
-In 2023, I decided to enroll in OpenClassrooms Machine Learning Engineer formation to start a new professional chapter. This brought me the necessary knowledge in Machine Learning and the code practice needed to design, build and validate AI systems on real life cases. It also brought me the confidence necessary to take over AI products so today I am looking for freelance missions around Deep Learning products to gain hands-on experience. This document contains my project portfolio around Deep Learning activities I had over the last few years. 
+In 2023, I decided to enroll in OpenClassrooms Machine Learning Engineer formation to start a new professional chapter (diploma in August 2023). This brought me necessary knowledge in Machine Learning and code practice needed to design, build and validate AI systems on real life cases. It also brought me the confidence necessary to take over AI products so today I am looking for freelance missions around Deep Learning products to gain hands-on experience. This document contains my project portfolio around Deep Learning activities I had over the last few years. 
 
 ## Projects
 
@@ -26,7 +26,7 @@ During this long path to the ML degree, I had possibilities to participate to se
 | Keras | [![Keras image](./img/keras.png)](https://keras.io/)  |  A sub library of Tensorflow which gathers a large portion of Computer Vision Classification algorithms   |
 | Google Colab | [![Colab image](./img/colab.png)](https://colab.research.google.com/?hl=fr)  |  A platform on Google servers to be able to emulate and execute Python code. I own a powerful Google Colab Pro account on this platform for more demanding computations  |
 | Huggingface Spaces | [![HG image](./img/hugging.png)](https://huggingface.co/spaces)  |  A platform online that easily enables to have a graphical and interactive view of the AI solution that is being developed  |
-| FAIR Detectron2 | [![Detectron2](./img/detectron2.png)](https://ai.meta.com/tools/detectron2/)  |  A Faceboook framework that assembles a large number of Computer Vision SOTA algorithms in the different CV sub-domain |
+| FAIR Detectron2 | [![Detectron2](./img/detectron2.png)](https://ai.meta.com/tools/detectron2/)  |  A Faceboook framework that assembles a large number of Computer Vision SOTA algorithms in the different CV sub-domains |
 
 
 Vincent Arrigoni 09/2023
