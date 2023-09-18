@@ -1,4 +1,4 @@
-# Vincent Arrigoni - Machine Learning Portfolio
+# Vincent Arrigoni - Machine Learning Portfolio 
 
 [![Github](./img/github.png)](https://github.com/vintel38)
 
@@ -20,8 +20,8 @@ During this long path to the ML degree, I had possibilities to participate to se
 
 | Framework    | Description |
 | -------- | ------- |
-| Tensorflow [![Tensorflow image](./img/tenforflow.png)](https://www.tensorflow.org/?hl=fr)  |  A popular Machine Learning library in Python which enables most of the ML algo now outhere and with which I have worked quite a bit   |
-| Pytorch [![Pytorch image](./img./pytorch.png)](https://pytorch.org/) |  Another powerful Python Library which is largely in production and with which I run a few ML algorithms  |
+| Tensorflow [![Tensorflow image](./img/tensorflow.png)](https://www.tensorflow.org/?hl=fr)  |  A popular Machine Learning library in Python which enables most of the ML algo now outhere and with which I have worked quite a bit   |
+| Pytorch [![Pytorch image](./img/pytorch.png)](https://pytorch.org/) |  Another powerful Python Library which is largely in production and with which I run a few ML algorithms  |
 | Scikit-Learn  [![scikit image](./img/scikit.png)](https://scikit-learn.org/)  |  A set of ML tools in Python to be able to quickly a baseline model on any task  |
 | Keras  [![Keras image](./img/keras.png)](https://keras.io/)  |  A sub library of Tensorflow which gathers a large portion of Computer Vision Classification algorithms   |
 | Google Colab  [![Colab image](./img/colab.png)](https://colab.research.google.com/?hl=fr)  |  A platform on Google servers to be able to emulate and execute Python code. I own a powerful Google Colab Pro account on this platform for more demanding computations  |
