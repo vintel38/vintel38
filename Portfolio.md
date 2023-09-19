@@ -1,6 +1,6 @@
-# Vincent Arrigoni - Machine Learning Portfolio  [![LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/varrigoni/)
+# Vincent Arrigoni - Machine Learning Portfolio  
 
-[![Github](./img/github.png)](https://github.com/vintel38) 
+[![Github](./img/github.png)](https://github.com/vintel38) [![LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/varrigoni/)
 
 I am currently a double graduate aerospace engineer working at ArianeGroup on Ariane6 program. After two master degrees (Aeronautics in France and Aerospace in Italy), I had my first professionnal experiences in French big and small aeronautical companies before moving to ArianeGroup. I am currently working on validation of the flight software of this Ariane6 rocket. For some years, I have been interested in Machine Learning technics and now I want to grow in this field.  
 
