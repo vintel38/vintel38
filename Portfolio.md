@@ -1,4 +1,4 @@
-# Vincent Arrigoni - Machine Learning Portfolio 
+# Vincent Arrigoni - Machine Learning Portfolio  
 
 [![Github](./img/github.png)](https://github.com/vintel38) [![LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/varrigoni/)
 
