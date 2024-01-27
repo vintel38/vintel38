@@ -1,6 +1,6 @@
 ## Hi all 👋
 
-After an aeronautical engineering degree and a MS in aerospace engineering, I am interested in new technologies like AI, data and connectivity. Currently working as System Engineer on the Ariane6 rocket, I am looking for new opportunities in Paris area mixing aerospace industry and data emerging solutions opportunities. 
+After an aeronautical engineering degree and a MS in aerospace engineering, I am interested in new technologies like AI, data and connectivity. Currently working as System Engineer on the Ariane6 rocket, I am looking for new opportunities in Paris area mixing aerospace industry and data emerging solutions. 
 
 - 🔭 Working here : Ariane6 Launch Software System Engineer
 - 🎓 Graduated from : OpenClassrooms Machine Learning Engineer Course
