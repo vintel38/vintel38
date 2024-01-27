@@ -3,7 +3,7 @@
 After an aeronautical engineering degree and a MS in aerospace engineering, I am interested in new technologies like AI, data and connectivity. Currently working as System Engineer on the Ariane6 rocket, I am looking for new opportunities in Paris area mixing aerospace industry and data emerging solutions opportunities. 
 
 - 🔭 Working here : Ariane6 Launch Software System Engineer
-- 🌱 Learning this : IA, Computer Vision, Data Science & Architecture
+- 🌱 Learning this : IA, Computer Vision, Data Science & Embedded Systems
 - 👯 Collaborate with : IA and start-up meetup in Paris
 - 📫 Reach me there : varrigoni382@hotmail.fr
 
