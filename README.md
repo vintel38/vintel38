@@ -1,11 +1,13 @@
-## Bienvenue 👋
+## Hi all 👋
 
-Après un diplôme d'ingénieur en mécanique et un master of science en aérospatiale, je suis plus que jamais intéressé par le Machine Learning et ses applications pour créer une société plus harmonieuse 😇👩🏻‍🤝‍👩🏻🍀 Je cherche activement à développer des applications qui nous permettront de mieux interconnecter les communautés. 
+After an aeronautical engineering degree and a MS in aerospace engineering, I am interested in new technologies like AI, data and connectivity. Currently working as System Engineer on the Ariane6 rocket, I am looking for new opportunities in Paris area mixing aerospace industry and data emerging solutions opportunities. 
 
-- 📚 Livres ML que j'ai lu : [Hands-On Machine Learning [...]](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) d'Aurélien Géron et [Développer des applications de ML](https://www.amazon.com/Optimiser-d%C3%A9veloppement-dapplications-Machine-learning/dp/2412058024) d'Emmanuel Ameisen 
-- 🎓 Cours ML que j'ai suivi : [Machine Learning](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2020&k_cf=225&k_corso_la=481&k_indir=T2A&codDescr=097683&lang=IT&semestre=2&idGruppo=4151&idRiga=253837) et [Data Mining and Text Mining](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2020&k_cf=225&k_corso_la=481&k_indir=T2A&codDescr=055632&lang=IT&semestre=1&idGruppo=4152&idRiga=253860) du master de Computer Science and Engineering à Politecnico di Milano 
+- 🔭 Working here : Ariane6 Launch Software System Engineer
+- 🌱 Learning this : IA, Computer Vision, Data Science & Architecture
+- 👯 Collaborate with : IA and start-up meetup in Paris
+- 📫 Reach me there : varrigoni382@hotmail.fr
 
-Au plaisir de vous croiser au détour d'une Issue 😊
+And I'll see you soon 😉
 
 <!--
 **vintel38/vintel38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
